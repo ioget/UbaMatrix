@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697871552 source:h:\ubacybercrypto\data-structure\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+
